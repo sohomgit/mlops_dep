@@ -1,0 +1,4 @@
+*.pyc
+*.pkl
+.DS_Store
+.bash_profile
